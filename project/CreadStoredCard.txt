@@ -1,0 +1,163 @@
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="serial"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="backgroundPic"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="backgroundPicType"
+
+0
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="graphicHidden"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="graphType"
+
+0
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="color"
+
+a9d92d
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="id"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="listing"
+
+0
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="cardType"
+
+CZ_CARD
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="coverShow"
+
+1
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="detailsImage"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="backGroundPicUrlFile"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="mbtp"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="title"
+
+004
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="subTitle"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="balance"
+
+10
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="price"
+
+0
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="skuQuantity"
+
+10
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="dateFixedTerm"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="dateInfoType"
+
+ 1 
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="validity-period"
+
+time
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="dateInfoBeginTimestamp"
+
+2020-11-10
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="dateInfoEndTimestamp"
+
+2029-12-31
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="fixedBeginTerm"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="dateInfoFixedTerm"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="getInType"
+
+3
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="weixinCheck"
+
+on
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="getLimit"
+
+10
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="notice"
+
+使用提醒
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="description"
+
+使用说明
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="servicePhone"
+
+0755-8989889
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="graphicImage"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="detailImgUrlFile"; filename=""
+Content-Type: application/octet-stream
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="mbtp"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="detailTxt"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="fitBranchAll"
+
+1
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="province"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="keyName"
+
+
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="isSyncCardPack"
+
+1
+------WebKitFormBoundaryaBz3BMXBAApM6i3x
+Content-Disposition: form-data; name="checkPass"
+
+-1
+------WebKitFormBoundaryaBz3BMXBAApM6i3x--
